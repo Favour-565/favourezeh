@@ -1,6 +1,15 @@
-### Hi there 👋, my name is Favour
-#### Bringing Ideas to Life with Code 💻✨
 ![Bringing Ideas to Life with Code 💻✨](https://pbs.twimg.com/media/F98DnJBbkAAKWdI?format=jpg&name=900x900)
+### Hi there 👋, I'm Favour Ezeh
+#### Bringing Ideas to Life with Code 💻✨
+
+##Skills and Experience
+✨React
+✨React Native
+📲UI/UX
+💻HTML, CSS, JS
+
+ 
+
 
 👋 Hello, fellow coder! I'm Favour Ezeh, a passionate software developer on a mission to turn caffeine into code and dreams into reality. I specialize in React, JS, CSS, HTML, UI/UX , and I'm always excited to tackle challenging problems and bring innovative solutions to life.
 
