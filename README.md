@@ -1,4 +1,4 @@
-Hi there 👋, I'm Favour Ezeh
+Favour Ezeh
 ![Bringing Ideas to Life with Code 💻✨](https://pbs.twimg.com/media/F98DnJBbkAAKWdI?format=jpg&name=900x900)
 I'm a sofware engineer who is passionate about making open-source more accessible, creating technologies. i enjoy working with includes ReactJs, (JavaScript, Apis + Markup) and GraphQL. I'm always excited to tackle challenging problems and bring innovative solutions to life. Collaboration and continuous learning are at the heart of my journey, and I'm here to connect, learn, and create alongside this amazing coding community.
 
