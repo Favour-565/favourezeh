@@ -19,7 +19,10 @@
 
 Skills: UI/UX / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+ My Works.
+https://i.ibb.co/gvMycv9/work-1.png
+https://i.ibb.co/QDQ3VWv/work-2.png
+https://i.ibb.co/nc4vLyb/work-3.png
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Favour-565)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ezeh-favour-chimuanya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/marvin.eze.3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/favour26519)  
